@@ -18,3 +18,6 @@ let memo = memoization()
 let a = memo(504)
 
 let b = memo(504)
+
+
+    `event loop, reconciliation, execution context, server side rendering, react 18 features, promises, webpack and the usual hooks.`
