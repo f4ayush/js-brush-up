@@ -51,7 +51,7 @@ class LinkedList {
         let current = this.head
         let previous
         while (current.next) {
-            if (current.data = element) {
+            if (current.data == element) {
                 previous.next = current.next
                 this.size--
                 return node
